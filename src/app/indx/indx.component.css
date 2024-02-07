@@ -1,0 +1,138 @@
+
+
+
+.container {
+    padding-top: 10px;
+    width: 500px;
+    height: 350px;
+    margin: auto;
+    
+  }
+
+  .container img{
+    align-items: center;
+    justify-content: center;
+    width: 450px;
+    padding-left: 30px;
+  }
+
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+line
+
+.inner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+button{
+    cursor: pointer;
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* ----------------------------------------- */
+.size{
+    width: 50px;
+    height: 20px;
+    color: white;
+    font-size: 13px;
+    text-wrap: wrap;
+    background-color: rgb(29, 220, 29);
+}
+
+.size1{
+    width: 70px;
+    height: 40px;
+    color: white;
+    font-size: 20px;
+    background-color: rgb(29, 220, 29);
+    text-wrap: wrap;
+}
+
+.size2{
+    width: 90px;
+    height: 50px;
+    color: white;
+    font-size: 27px;
+    background-color: rgb(29, 220, 29);
+    text-wrap: wrap;
+}
+
+.size3{
+    width: 110px;
+    height: 60px;
+    color: white;
+    font-size: 35px;
+    background-color: rgb(29, 220, 29);
+    text-wrap: wrap;
+}
+
+.size4{
+    width: 130px;
+    height: 70px;
+    color: white;
+    font-size: 42px;
+    background-color: rgb(29, 220, 29);
+    text-wrap: wrap;
+}
+
+.size5{
+    width: 150px;
+    height: 80px;
+    color: white;
+    font-size: 50px;
+    background-color: rgb(29, 220, 29);
+}
+
+.size6{
+    width: 170px;
+    height: 90px;
+    color: white;
+    font-size: 57px;
+    background-color: rgb(29, 220, 29);
+    text-wrap: wrap;
+}
+
+.size7{
+    width: 190px;
+    height: 100px;
+    color: white;
+    font-size: 65px;
+    background-color: rgb(29, 220, 29);
+    text-wrap: wrap;
+}
+
+.size8{
+    width: 210px;
+    height: 110px;
+    color: white;
+    font-size: 72px;
+    background-color: rgb(29, 220, 29);
+    text-wrap: wrap;
+}
+
+.size9{
+    width: 230px;
+    height: 120px;
+    color: white;
+    font-size: 90px;
+    background-color: rgb(29, 220, 29);
+    text-wrap: wrap;
+}
+/* ----------------------------------------------------------- */
+
+#tt{
+    color: white;
+    background: red;
+}

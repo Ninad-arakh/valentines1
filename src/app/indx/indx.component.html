@@ -1,0 +1,17 @@
+<div class="container">
+    <img src="assets/bear-love.gif" alt="">
+    <div class="inner">
+        <h2>Will you be my Valentine??</h2>
+        <br><br>
+        <div class="btn" >
+            
+                <button (click)="btn1('img')" [class]="color" name="Response" type="submit">Yes</button>
+                <button #two (click)="btn2(two.value)" id="tt">{{msg}}</button>
+            
+        </div>
+    </div>
+
+</div>
+
+
+<router-outlet></router-outlet>

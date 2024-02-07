@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Protest+Riot&display=swap');
+*{
+    background: rgb(246, 247, 245);
+    font-family: "Protest Riot", sans-serif;
+}
+
+
+@media only screen and (max-width: 600px) {
+    /* .container{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    } */
+
+    }
